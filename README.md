@@ -1,1 +1,3 @@
-# dos-tester
+# DoS-tester
+
+Currently working on this script...
